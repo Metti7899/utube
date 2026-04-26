@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'Target URL (Direct, Github releases, YouTube, Bunkr, etc.)'
+        description: 'Target URL (Direct, YouTube, Bunkr, etc.)'
         required: true
         type: string
       quality:
@@ -32,14 +32,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Install Dependencies
+      - name: Fast Install Dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y aria2 python3 python3-pip python3-requests ffmpeg curl zip
-          pip3 install "yt-dlp[default]"
-
-      - name: Install Bun (For JS Challenges)
-        run: |
+          # 1. Install aria2 and ffmpeg (Skipping apt update to save 2+ minutes ;)
+          sudo apt-get install -y aria2 ffmpeg
+          
+          # 2. Download yt-dlp binary directly
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+          
+          # 3. Install Bun for JS challenges
           curl -fsSL https://bun.com/install | bash
           echo "$HOME/.bun/bin" >> $GITHUB_PATH
 
@@ -102,7 +104,8 @@ jobs:
           URL="${{ github.event.inputs.url }}"
           QUALITY="${{ github.event.inputs.quality }}"
           
-          rm -rf tmp_downloads dl
+          # Only remove tmp_downloads.
+          rm -rf tmp_downloads
           mkdir -p tmp_downloads dl
           
           echo "Processing URL: $URL"
@@ -146,6 +149,7 @@ jobs:
             LIMIT=$((95 * 1024 * 1024))
             BASENAME=$(basename "$FILE")
             
+            # Remove ONLY identically named zips in case we are re-downloading the same file.
             rm -f "dl/${BASENAME}.zip" "dl/${BASENAME}.z"*
             
             if [ -n "$HAS_PASS" ] || [ "$SIZE" -gt "$LIMIT" ]; then
