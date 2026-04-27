@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 02:47 IR
+- 🎵 [The Promised Consort Elden Ring Shadow Of The Erdtree [Epic Cover].mp3](https://github.com/Metti7899/utube/raw/main/dl/The%20Promised%20Consort%20Elden%20Ring%20Shadow%20Of%20The%20Erdtree%20%5BEpic%20Cover%5D.mp3) `5.2MB`
+
+---
+
+
 ### 📅 2026-04-28 02:43 IR
 - 🎵 [＂El Pueblo Unido＂ - Chilean Socialist Song.mp3](https://github.com/Metti7899/utube/raw/main/dl/%EF%BC%82El%20Pueblo%20Unido%EF%BC%82%20-%20Chilean%20Socialist%20Song.mp3) `2.9MB`
 
