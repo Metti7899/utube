@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 20:12 IR
+- 🗜️ [John Mearsheimer ＂Iran Holds All the Cards＂ - The Strategic Defeat of the U.S..mp4.zip](https://github.com/Metti7899/utube/raw/main/dl/John%20Mearsheimer%20%EF%BC%82Iran%20Holds%20All%20the%20Cards%EF%BC%82%20-%20The%20Strategic%20Defeat%20of%20the%20U.S..mp4.zip) `11.1MB`
+
+- 🗜️ [John Mearsheimer ＂Iran Holds All the Cards＂ - The Strategic Defeat of the U.S..mp4.z01](https://github.com/Metti7899/utube/raw/main/dl/John%20Mearsheimer%20%EF%BC%82Iran%20Holds%20All%20the%20Cards%EF%BC%82%20-%20The%20Strategic%20Defeat%20of%20the%20U.S..mp4.z01) `95.0MB`
+
+- 🗜️ [John Mearsheimer ＂Iran Holds All the Cards＂ - The Strategic Defeat of the U.S..mp4.z02](https://github.com/Metti7899/utube/raw/main/dl/John%20Mearsheimer%20%EF%BC%82Iran%20Holds%20All%20the%20Cards%EF%BC%82%20-%20The%20Strategic%20Defeat%20of%20the%20U.S..mp4.z02) `95.0MB`
+
+- 🗜️ [John Mearsheimer ＂Iran Holds All the Cards＂ - The Strategic Defeat of the U.S..mp4.zip](https://github.com/Metti7899/utube/raw/main/dl/John%20Mearsheimer%20%EF%BC%82Iran%20Holds%20All%20the%20Cards%EF%BC%82%20-%20The%20Strategic%20Defeat%20of%20the%20U.S..mp4.zip) `11.1MB`
+
+---
+
+
 ### 📅 2026-04-29 20:07 IR
 - 🎬 [U.S Navy Flees Iran! Iran's Destruction Weapons Just Taught Trump A Lesson｜ John Mearsheimer.mp4](https://github.com/Metti7899/utube/raw/main/dl/U.S%20Navy%20Flees%20Iran%21%20Iran%27s%20Destruction%20Weapons%20Just%20Taught%20Trump%20A%20Lesson%EF%BD%9C%20John%20Mearsheimer.mp4) `38.5MB`
 
