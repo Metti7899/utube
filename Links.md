@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 20:55 IR
+- 🎵 [ماجرا از چه قرار است ｜ گزارش اقلیت.mp3](https://github.com/Metti7899/utube/raw/main/dl/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%20%D8%A7%D8%B2%20%DA%86%D9%87%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%A7%D8%B3%D8%AA%20%EF%BD%9C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D8%A7%D9%82%D9%84%DB%8C%D8%AA.mp3) `14.1MB`
+
+---
+
+
 ### 📅 2026-04-29 20:51 IR
 - 🎬 [مذاکره جای امتیاز دادن نیست، تثبیت پیروزی است..mp4](https://github.com/Metti7899/utube/raw/main/dl/%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87%20%D8%AC%D8%A7%DB%8C%20%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%86%DB%8C%D8%B3%D8%AA%D8%8C%20%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA%20%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C%20%D8%A7%D8%B3%D8%AA..mp4) `48.8MB`
 
