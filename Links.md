@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 20:51 IR
+- 🎬 [مذاکره جای امتیاز دادن نیست، تثبیت پیروزی است..mp4](https://github.com/Metti7899/utube/raw/main/dl/%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87%20%D8%AC%D8%A7%DB%8C%20%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%86%DB%8C%D8%B3%D8%AA%D8%8C%20%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA%20%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C%20%D8%A7%D8%B3%D8%AA..mp4) `48.8MB`
+
+---
+
+
 ### 📅 2026-04-29 20:22 IR
 - 🎬 [Prof. Mohammad Marandi  ：  FROM TEHRAN： US Asking For Ceasefire, Again..mp4](https://github.com/Metti7899/utube/raw/main/dl/Prof.%20Mohammad%20Marandi%20%20%EF%BC%9A%20%20FROM%20TEHRAN%EF%BC%9A%20US%20Asking%20For%20Ceasefire%2C%20Again..mp4) `58.0MB`
 
