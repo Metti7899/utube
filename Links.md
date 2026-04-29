@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 19:57 IR
+- 🎵 [Prof. John Mearsheimer  ：  How Trump Lost His War.mp3](https://github.com/Metti7899/utube/raw/main/dl/Prof.%20John%20Mearsheimer%20%20%EF%BC%9A%20%20How%20Trump%20Lost%20His%20War.mp3) `21.2MB`
+
+---
+
+
 ### 📅 2026-04-29 19:53 IR
 - 🎵 [Prof. Jeffrey Sachs  ：  Is Trump Trapped？.mp3](https://github.com/Metti7899/utube/raw/main/dl/Prof.%20Jeffrey%20Sachs%20%20%EF%BC%9A%20%20Is%20Trump%20Trapped%EF%BC%9F.mp3) `21.2MB`
 
