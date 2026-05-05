@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 01:21 IR
+- 🎬 [Will Trump’s new ploy work？ ｜ John Mearsheimer & Trita Parsi.mp4](https://github.com/Metti7899/utube/raw/main/dl/Will%20Trump%E2%80%99s%20new%20ploy%20work%EF%BC%9F%20%EF%BD%9C%20John%20Mearsheimer%20%26%20Trita%20Parsi.mp4) `83.0MB`
+
+---
+
+
 ### 📅 2026-05-06 01:13 IR
 - 🎬 [Prof. John Mearsheimer  ：  More War Will Strengthen Iran.mp4](https://github.com/Metti7899/utube/raw/main/dl/Prof.%20John%20Mearsheimer%20%20%EF%BC%9A%20%20More%20War%20Will%20Strengthen%20Iran.mp4) `61.6MB`
 
